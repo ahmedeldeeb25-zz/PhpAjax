@@ -1,0 +1,17 @@
+{
+    "user1":{
+        "fistname":"ahmed",
+        "lastname":"eldeeeb",
+        "age":20
+    },
+    "user2":{
+        "fistname":"zizo",
+        "lastname":"eldeeeb",
+        "age":14
+    },
+    "user3":{
+        "fistname":"malek",
+        "lastname":"eldeeeb",
+        "age":8
+    }
+}

@@ -1,0 +1,9 @@
+#output{
+    background:beige;
+    width: 33%;
+    height: 25%;
+    border: 1px solid black;
+    margin: 10px;
+    font-size: 24px;
+    padding: 10%;
+}
